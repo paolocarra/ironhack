@@ -1,0 +1,301 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.25rem;
+  font-family: Source Sans Pro;
+  }
+
+h3 {
+  font-size: 1.75rem;
+  font-family: Source Sans Pro;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-family: Source Sans Pro;
+}
+
+p {
+  font-size: 1.35rem;
+  font-family: Source Sans Pro;
+}
+
+li {
+  font-size: 1.25rem;
+  font-family: Source Sans Pro;
+  color: #f4f4f4;
+}
+
+
+
+nav {
+  background-color: #C12127;
+  font-family: sans-serif;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+  margin: 0;
+}
+
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+
+.top-left {
+  padding-top:5px;
+  padding-left: 15px;
+  float: left;
+  font-size: 1rem;
+}
+
+.heart {
+  
+}
+
+.acronym {
+  padding-left: 10px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding-top: 5px;
+  margin: 0 20px 0 0;
+  font-size: 1 rem;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 1 rem;
+}
+
+
+
+
+.header {
+  padding: 0 0 0 0;
+  background-color: rgb(32, 101, 136);
+  }
+
+.searchbar {
+ background-color: rgb(32, 101, 136);
+ padding: 0 0 0 15px;
+ 
+
+
+}
+
+.search-input {
+  background-color: rgb(31, 82, 111);
+  width: 1350px;
+  height: 25px;
+  border: 1px solid rgb(31, 82, 111);
+  margin-top: 10px;    
+  
+  
+}
+
+
+.lnk-btn0 {
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.imgLogo {
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+    float: left;
+    padding-right: 5px;
+    
+    
+}
+
+
+.imgBear {
+    width: 50px;
+    height: 40px;
+    float:right;
+    padding: 5px;
+}
+
+
+.header2-cityscape {
+    
+    background-image: url(city-scape.svg);
+    height: 700px;
+    width: 1663px;
+    
+}
+
+.header-2 {
+  margin: 0 auto;
+  background-color: rgb(32, 101, 136);
+  color: #f4f4f4;
+  margin-top: 0px;
+  font-family: Source Sans Pro;
+  
+ }
+
+.header-2-left {
+ padding: 15px 40px 40px 200px;
+ float:left;
+ text-align: left;
+ color: #f4f4f4;
+ margin-top: 125px;
+ font-family: Source Sans Pro;
+ width: 30%;
+ 
+}
+
+
+.lnk-btn1 {
+  background-color: rgb(240, 146, 51);
+  color: white;
+  font-family: Source Sans Pro;
+  font-size: 1em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 150px;
+  margin: 40px auto 0;
+  padding: 14px 20px;
+  border: 2px solid #000000 0.2;
+  border-radius: 25px;
+  float:left; 
+}
+
+.section1-teammate {
+  float: left;
+  width: 30%;
+    
+  margin: 0;
+  background-color: rgb(39, 53, 71);
+  padding-left: 15%;
+  padding-top: 10%;
+  padding-bottom: 20px;
+  padding-right: 10%;
+  
+  }
+
+.section1-content {
+  background-color: rgb(39, 53, 71);
+  color: #f4f4f4;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  
+}
+
+
+.lnk-btn2 {
+  background-color: rgb(203, 56, 55);
+  color: white;
+  font-family: Source Sans Pro;
+  font-size: 1em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 150px;
+  margin: 40px auto 0;
+  padding: 14px 20px;
+  border: 2px solid #000000 0.2;
+  border-radius: 25px;
+  float:left;
+  margin-right: 5px;
+}
+
+.section1-link {
+  font-size: 1em;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.section1-contentP {
+    margin-top: 50px;
+    
+}
+
+
+
+
+
+.section2-content {
+ padding: 15px 40px 40px 200px;
+ float:left;
+ text-align: left;
+ color: #f4f4f4;
+ margin-top: 125px;
+ font-family: Source Sans Pro;
+ width: 30%;
+
+  
+}
+
+.lnk-btn3 {
+  background-color: rgb(49, 68, 88);
+  color: white;
+  font-family: Source Sans Pro;
+  font-size: 1em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 150px;
+  margin: 40px auto 0;
+  padding: 14px 20px;
+  border: 2px solid #000000 0.2;
+  border-radius: 25px;
+  float:left;
+}
+
+.section2-boxes {
+    background-image: url(https://static.npmjs.com/images/npm-is-BOXES.svg);
+    height: 500px;
+
+}
+
+#section3 {
+    background-color: white;
+}
+
+.section3-heading {
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(83, 88, 98);
+  padding-top: 20px;
+    
+}
+
+.section3-container {
+  widht: 600px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0;
+
+  
+}
+
+.col-3 {
+  float: left;
+  background-color: white;
+  width: 33%;
+  margin: 0 auto;
+}
+
+
+.section3-links {
+  font-size: 1em;
+  text-decoration: none;
+  color: rgb(208, 74, 73);
+}
