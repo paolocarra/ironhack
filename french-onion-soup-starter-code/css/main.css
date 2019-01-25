@@ -1,0 +1,71 @@
+/*Some necessary adjustments*/
+h1, body, html, main {
+  margin: 0;
+}
+/*Import the font and set the default size*/
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: dimgrey;
+}
+
+
+#onion1 {
+  background-image: url("../images/soup.jpg");
+  background-size: cover;
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 525px;
+  color:  white;
+  text-align: center;
+  line-height: 525px;
+  font-size: 35px;
+}
+
+
+
+.para {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 21px;
+  margin-top: 5%;
+  
+}
+#recipe img {
+  display: block;
+  width: 20%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto  
+}
+#cooking img {
+  display: block;
+  width: 18%;
+  margin-bottom: 1%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#list1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-size: 18px;
+  margin-top: 2%;
+  
+}
+
+#list2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-size: 18px;
+  margin-top: 2%;
+  margin-bottom: 5%; 
+}
